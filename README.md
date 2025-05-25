@@ -24,8 +24,8 @@ print the characters and its huffmancode.
  
 ## Program:
 ```
-Developed by : HAREESH R
-Register no  : 212223230068
+Developed by : KAVINILAVAN DK
+Register no  : 212223230103
 ```
 ```
 input_string = "aggressiveness"
